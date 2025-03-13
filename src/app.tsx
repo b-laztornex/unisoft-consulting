@@ -11,6 +11,7 @@ export default function App() {
   return (
     <div class="">
       <Router
+        base="/unisoft-consulting/"
         root={(props) => (
           <>
             <Navbar />
