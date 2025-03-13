@@ -1,0 +1,43 @@
+{
+  "blogs": [
+    {
+      "title": "Why React Virtual DOM is So Slow and the Cost of Maintaining 2 Virtual DOMs",
+      "read_time": 6,
+      "summary": "Exploring why React's virtual DOM can be inefficient and the hidden costs of managing two virtual DOMs.",
+      "top_image": "/images/react-vdom.jpg",
+      "image_preview": "/images/react-vdom-preview.jpg",
+      "link": "/blog/react-vdom",
+      "related_videos": ["/videos/react-vdom"],
+      "related_podcasts": []
+    },
+    {
+      "title": "The Ups and Downs of the Node.js Event Loop",
+      "read_time": 6,
+      "summary": "A deep dive into the event loop mechanism in Node.js and how it affects performance.",
+      "top_image": "/images/node-event-loop.jpg",
+      "image_preview": "/images/node-event-loop-preview.jpg",
+      "link": "/blog/node-event-loop",
+      "related_videos": ["/videos/node-event-loop"],
+      "related_podcasts": []
+    }
+  ],
+  "videos": [
+    {
+      "title": "Understanding React Virtual DOM",
+      "duration": "12:30",
+      "summary": "A deep dive into how React Virtual DOM works.",
+      "thumbnail": "/images/react-vdom-video.jpg",
+      "video_url": "/videos/react-vdom.mp4",
+      "link": "/videos/react-vdom"
+    },
+    {
+      "title": "Understanding the Node.js Event Loop",
+      "duration": "15:00",
+      "summary": "Exploring how the event loop functions and impacts Node.js performance.",
+      "thumbnail": "/images/node-event-loop-video.jpg",
+      "video_url": "/videos/node-event-loop.mp4",
+      "link": "/videos/node-event-loop"
+    }
+  ],
+  "podcasts": []
+}
