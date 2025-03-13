@@ -1,0 +1,413 @@
+{
+    "portfolio": [
+        {
+            "title": "Clinical Data Analyzer",
+            "description": "A web-based system for analyzing patient data and generating medical reports.",
+            "technologies": [
+                "Python",
+                "Django",
+                "PostgreSQL"
+            ],
+            "sectors": [
+                "Healthcare",
+                "AI & ML"
+            ],
+            "image": "/thumbnail/heart_valve_interventions.jpg",
+            "images": [
+                "tecmed-1.png",
+                "tecmed-2.png",
+                "tecmed-3.png",
+                "tecmed-4.png",
+                "tecmed-5.png"
+            ],
+            "video": "tecmed-intro-1.mov",
+            "github": "https://github.com/b-laztornex/clinical-data-analyzer",
+            "live_demo": null
+        },
+        {
+            "title": "IoT Data Platform",
+            "description": "Developed an IoT data platform that visualizes real-time metrics in a scalable dashboard.",
+            "technologies": [
+                "React",
+                "Node.js",
+                "WebSockets",
+                "D3.js"
+            ],
+            "sectors": [
+                "IoT",
+                "Data Analytics"
+            ],
+            "image": "/thumbnail/kewazo_logo.png",
+            "images": [
+                "kewazo_portafolio_1.png",
+                "kewazo_portafolio_2.png",
+                "kewazo_portafolio_3.png",
+                "kewazo_portafolio_4.png",
+                "kewazo_portafolio_5.png"
+            ],
+            "video": "https://drive.google.com/file/d/12la3YHdqcRDXtUlLf3FUqFrDhuSi-XQB/preview",
+            "github": "https://github.com/b-laztornex/iot-dashboard",
+            "live_demo": "https://iot-dashboard.example.com"
+        },
+        {
+            "title": "Bavarian Defence Game",
+            "description": "A strategy defense game built with Unity and C#.",
+            "technologies": [
+                "Unity",
+                "C#",
+                "AI Algorithms"
+            ],
+            "sectors": [
+                "Gaming",
+                "AI & ML"
+            ],
+            "image": "/thumbnail/babarian_defence.webp",
+            "images": [
+                "towerdefence-1.webp",
+                "towerdefence-2.webp",
+                "towerdefence-3.webp",
+                "towerdefence-4.webp",
+                "towerdefence-5.webp",
+                "towerdefence-6.webp",
+                "towerdefence-7.webp"
+            ],
+            "video": "https://www.youtube.com/watch?v=abc456",
+            "github": "https://github.com/b-laztornex/bavarian-defence",
+            "live_demo": null
+        },
+        {
+            "title": "Nightowl Scanner",
+            "description": "A mobile app that scans QR codes and provides authentication features.",
+            "technologies": [
+                "Flutter",
+                "Dart",
+                "Firebase"
+            ],
+            "sectors": [
+                "Security",
+                "Finance"
+            ],
+            "image": "/thumbnail/nightowl_thumb.png",
+            "images": [
+                "/images/nightowl_scanner_1.jpg",
+                "/images/nightowl_scanner_2.jpg"
+            ],
+            "video": "https://www.youtube.com/watch?v=def789",
+            "github": null,
+            "live_demo": "https://nightowl-scanner.example.com"
+        },
+        {
+            "title": "Traveling Planner",
+            "description": "A comprehensive travel planning app that helps users organize trips, book accommodations, and explore new destinations.",
+            "technologies": [
+                "React",
+                "Node.js",
+                "Google Maps API",
+                "MongoDB"
+            ],
+            "sectors": [
+                "Travel",
+                "Logistics"
+            ],
+            "image": "/thumbnail/travel_planner_thumb.jpeg",
+            "images": [
+                "/images/travel_planner_1.jpg",
+                "/images/travel_planner_2.jpg"
+            ],
+            "video": "https://drive.google.com/file/d/1travelvideo123/preview",
+            "github": "https://github.com/user/travel-planner",
+            "live_demo": "https://travel-planner.example.com"
+        },
+        {
+            "title": "Alternative Assets Manager",
+            "description": "A financial tool for tracking and managing alternative investments such as real estate, crypto, and private equity.",
+            "technologies": [
+                "React",
+                "Node.js",
+                "PostgreSQL",
+                "D3.js"
+            ],
+            "sectors": [
+                "Finance",
+                "Investment"
+            ],
+            "image": "/thumbnail/alt_assets_thumb.jpeg",
+            "images": [
+                "/images/alt_assets_1.jpg",
+                "/images/alt_assets_2.jpg"
+            ],
+            "video": "https://drive.google.com/file/d/1altassetsvideo456/preview",
+            "github": "https://github.com/user/alt-assets-manager",
+            "live_demo": "https://alt-assets-manager.example.com"
+        },
+        {
+            "title": "My Care",
+            "description": "A personal healthcare management platform that tracks medical records, prescriptions, and wellness plans.",
+            "technologies": [
+                "Vue.js",
+                "Firebase",
+                "GraphQL",
+                "TailwindCSS"
+            ],
+            "sectors": [
+                "Healthcare",
+                "Personal Wellness"
+            ],
+            "image": "/thumbnail/mycare_thumb.png",
+            "images": [
+                "/images/my_care_1.jpg",
+                "/images/my_care_2.jpg"
+            ],
+            "video": "https://drive.google.com/file/d/1mycarevideo789/preview",
+            "github": "https://github.com/user/my-care",
+            "live_demo": "https://my-care.example.com"
+        },
+        {
+            "title": "Hotel Suit",
+            "description": "A hotel management system for handling reservations, guest check-ins, and room service requests.",
+            "technologies": [
+                "Angular",
+                "Node.js",
+                "Express",
+                "MongoDB"
+            ],
+            "sectors": [
+                "Hospitality",
+                "Booking"
+            ],
+            "image": "/thumbnail/dallas_hotel_thumb.png",
+            "images": [
+                "/images/hotel_suit_1.jpg",
+                "/images/hotel_suit_2.jpg"
+            ],
+            "video": "https://drive.google.com/file/d/1hotelsuitvideo321/preview",
+            "github": "https://github.com/user/hotel-suit",
+            "live_demo": "https://hotel-suit.example.com"
+        },
+        {
+            "title": "MedCare",
+            "description": "A telemedicine and appointment scheduling platform connecting patients with healthcare providers.",
+            "technologies": [
+                "React Native",
+                "Node.js",
+                "WebRTC",
+                "PostgreSQL"
+            ],
+            "sectors": [
+                "Telemedicine",
+                "Healthcare"
+            ],
+            "image": "/thumbnail/medcar_thumb.png",
+            "images": [
+                "/images/medcare_1.jpg",
+                "/images/medcare_2.jpg"
+            ],
+            "video": "https://drive.google.com/file/d/1medcarevideo654/preview",
+            "github": "https://github.com/user/medcare",
+            "live_demo": "https://medcare.example.com"
+        },
+        {
+            "title": "Recruiter Tech",
+            "description": "An AI-powered recruitment platform that matches candidates with job openings based on skill analysis.",
+            "technologies": [
+                "Python",
+                "Django",
+                "TensorFlow",
+                "React"
+            ],
+            "sectors": [
+                "Human Resources",
+                "AI"
+            ],
+            "image": "/thumbnail/recruiter_tech_thumb.jpeg",
+            "images": [
+                "/images/recruiter_tech_1.jpg",
+                "/images/recruiter_tech_2.jpg"
+            ],
+            "video": "https://drive.google.com/file/d/1recruitervideo987/preview",
+            "github": "https://github.com/user/recruiter-tech",
+            "live_demo": "https://recruiter-tech.example.com"
+        },
+        {
+            "title": "Viamor Dating",
+            "description": "A dating app designed for polyamorous relationships, helping people connect with like-minded partners.",
+            "technologies": [
+                "Flutter",
+                "Firebase",
+                "RubyonRails",
+                "VueJs"
+            ],
+            "sectors": [
+                "Dating",
+                "Social"
+            ],
+            "image": "/thumbnail/viamor_Logo.jpg",
+            "images": [
+                "viamor_1.png",
+                "viamor_2.png",
+                "viamor_3.png",
+                "viamor_4.png",
+                "viamor_5.png",
+                "viamor_6.png",
+                "viamor_7.png"
+            ],
+            "video": "https://drive.google.com/file/d/1polyamorevideo567/preview",
+            "github": "https://github.com/user/polyamore-dating",
+            "live_demo": "https://polyamore-dating.example.com"
+        },
+        {
+            "title": "Love and Pets",
+            "description": "A matchmaking app that connects pet lovers based on their favorite animals and lifestyle preferences.",
+            "technologies": [
+                "Swift",
+                "Kotlin",
+                "Firebase",
+                "MongoDB"
+            ],
+            "sectors": [
+                "Dating",
+                "Pets"
+            ],
+            "image": "/thumbnail/love_and_pets_thumb.jpeg",
+            "images": [
+                "/images/love_and_pets_1.jpg",
+                "/images/love_and_pets_2.jpg"
+            ],
+            "video": "https://drive.google.com/file/d/1loveandpetsvideo234/preview",
+            "github": "https://github.com/user/love-and-pets",
+            "live_demo": "https://love-and-pets.example.com"
+        },
+        {
+            "title": "Dream Nest",
+            "description": "A real estate platform that helps users find and purchase their dream homes with AI-assisted recommendations.",
+            "technologies": [
+                "Next.js",
+                "Node.js",
+                "PostgreSQL",
+                "Google Maps API"
+            ],
+            "sectors": [
+                "Real Estate",
+                "AI"
+            ],
+            "image": "/thumbnail/dream_nest_thumb.jpeg",
+            "images": [
+                "/images/dream_nest_1.jpg",
+                "/images/dream_nest_2.jpg"
+            ],
+            "video": "https://drive.google.com/file/d/1dreamnestvideo876/preview",
+            "github": "https://github.com/user/dream-nest",
+            "live_demo": "https://dream-nest.example.com"
+        },
+        {
+            "title": "Zen Meditation",
+            "description": "A mindfulness and meditation app that provides guided sessions, breathing exercises, and sleep stories for relaxation.",
+            "technologies": [
+                "React Native",
+                "Firebase",
+                "WebRTC",
+                "TensorFlow"
+            ],
+            "sectors": [
+                "Health & Wellness",
+                "Mental Health"
+            ],
+            "image": "/thumbnail/zen_meditation_thumb.jpeg",
+            "images": [
+                "/images/zen_meditation_1.jpg",
+                "/images/zen_meditation_2.jpg"
+            ],
+            "video": "https://drive.google.com/file/d/1zenmeditationvideo123/preview",
+            "github": "https://github.com/user/zen-meditation",
+            "live_demo": "https://zen-meditation.example.com"
+        },
+        {
+            "title": "Eco Island",
+            "description": "A sustainability-focused simulation game where players build and manage an environmentally friendly island.",
+            "technologies": [
+                "Unity",
+                "C#",
+                "Blender",
+                "Firebase"
+            ],
+            "sectors": [
+                "Gaming",
+                "Sustainability"
+            ],
+            "image": "/thumbnail/eco_island_thumb.jpeg",
+            "images": [
+                "/images/eco_island_1.jpg",
+                "/images/eco_island_2.jpg"
+            ],
+            "video": "https://drive.google.com/file/d/1ecoislandvideo345/preview",
+            "github": "https://github.com/user/eco-island",
+            "live_demo": "https://eco-island.example.com"
+        },
+        {
+            "title": "TSU IT Program",
+            "description": "A Moodle-based platform designed for a 2-year software development curriculum covering frontend, backend, and architecture.",
+            "technologies": [
+                "Moodle",
+                "PHP",
+                "JavaScript",
+                "MySQL"
+            ],
+            "sectors": [
+                "Education",
+                "Software Development"
+            ],
+            "image": "/thumbnail/tsu_it_program_thumb.jpeg",
+            "images": [
+                "/images/tsu_it_program_1.jpg",
+                "/images/tsu_it_program_2.jpg"
+            ],
+            "video": "https://drive.google.com/file/d/1tsuitprogramvideo678/preview",
+            "github": "https://github.com/user/tsu-it-program",
+            "live_demo": "https://tsu-it-program.example.com"
+        },
+        {
+            "title": "Green Home Planner",
+            "description": "An AI-powered tool that helps homeowners design sustainable and energy-efficient homes.",
+            "technologies": [
+                "Python",
+                "Flask",
+                "TensorFlow",
+                "React"
+            ],
+            "sectors": [
+                "Sustainability",
+                "Home Improvement"
+            ],
+            "image": "/thumbnail/green_home_planner_thumb.jpeg",
+            "images": [
+                "/images/green_home_planner_1.jpg",
+                "/images/green_home_planner_2.jpg"
+            ],
+            "video": "https://drive.google.com/file/d/1greenhomevideo567/preview",
+            "github": "https://github.com/user/green-home-planner",
+            "live_demo": "https://green-home-planner.example.com"
+        },
+        {
+            "title": "Mindful Learning",
+            "description": "An online learning platform that integrates mindfulness techniques with study sessions for improved focus and retention.",
+            "technologies": [
+                "Vue.js",
+                "Node.js",
+                "MongoDB",
+                "WebRTC"
+            ],
+            "sectors": [
+                "Education",
+                "Mental Health"
+            ],
+            "image": "/thumbnail/mindful_learning_thumb.jpeg",
+            "images": [
+                "/images/mindful_learning_1.jpg",
+                "/images/mindful_learning_2.jpg"
+            ],
+            "video": "https://drive.google.com/file/d/1mindfullearningvideo654/preview",
+            "github": "https://github.com/user/mindful-learning",
+            "live_demo": "https://mindful-learning.example.com"
+        }
+    ]
+}

@@ -1,0 +1,148 @@
+{
+  "motto": "Getting things done.",
+  "name": "Marco Casanova",
+  "title": "WEB Developer",
+  "contact": {
+    "email": "marco.casanova.de@outlook.com",
+    "github": "https://github.com/b-laztornex/",
+    "website": "https://b-laztornex.github.io/mycv",
+    "phone": "+49 1573 0824 264"
+  },
+  "profile": "With over 10 years of experience, I am a skilled software engineer who enjoys working with both back-end and front-end technologies. I have a strong foundation in 3D web-based software development and analytics-driven solutions. My expertise includes modern web technologies, cloud-based platforms, and agile practices. I specialize in designing and implementing scalable, intuitive solutions that enhance user satisfaction and drive business outcomes. I am more than excited to work in roles that demand technical challenges, strategic vision, and cross-functional collaboration.",
+  "skills": {
+    "programming_languages": ["TypeScript", "JavaScript", "Python", "PHP"],
+    "frameworks_libraries": ["React", "Angular", "Node.js", "Bootstrap", "LESS"],
+    "web_technologies": ["HTML5", "CSS3", "WebGL", "API Development"],
+    "databases": ["MongoDB", "PostgreSQL"],
+    "tools_platforms": ["Docker", "Vagrant", "Azure", "Kubernetes", "Jira", "Git"],
+    "testing_automation": ["Unit Testing", "Integration Testing", "Robot Framework", "Selenium Webdriver"],
+    "agile_methodologies": ["Scrum", "Kanban"],
+    "additional_expertise": ["Unity", "Data Modeling", "RESTful APIs", "Mentoring"]
+  },
+  "experience": [
+    {
+      "year": "2023 - Current",
+      "company": "Kewazo",
+      "position": "Senior Software Developer",
+      "location": "Munich, Germany",
+      "tasks": [
+        "Designed and developed an IoT data platform visualizing real-time metrics in a scalable dashboard.",
+        "Migrated legacy systems to modern infrastructures, improving performance and maintainability.",
+        "Developed automated reporting tools for daily and weekly summaries delivered via Slack and email.",
+        "Collaborated with stakeholders to align technical solutions with business objectives.",
+        "Actively contributed to team adoption of agile practices, fostering a collaborative environment."
+      ]
+    },
+    {
+      "year": "2018 - 2023",
+      "company": "C85",
+      "position": "Senior Full-Stack Developer",
+      "location": "Munich, Germany",
+      "tasks": [
+        "Developed mobile applications using Flutter for projects including Adagram and Nightowl Scanner.",
+        "Developed game Bavarian Defence using Unity.",
+        "Migrated a legacy Flask application to its latest version.",
+        "Created RESTful APIs using Node.js for Wenco.",
+        "Maintained a complex dating platform (Viamorie) using Angular 9 and Ruby on Rails.",
+        "Maintained high data quality standards through robust testing and automation tools.",
+        "Played a critical role in migrating on-premise data solutions to the cloud.",
+        "Mentored team members on best practices in web development and data engineering."
+      ]
+    },
+    {
+      "year": "2015 - 2018",
+      "company": "Jobsity",
+      "position": "Full Stack Developer",
+      "location": "New York, USA",
+      "tasks": [
+        "Developed and maintained multiple websites using React.js for Dom&Tom.",
+        "Planned and scheduled tasks for developers, ensuring timely project delivery.",
+        "Developed REST API endpoints using Express.js and Loopback.",
+        "Maintained and updated Angular 2 applications.",
+        "Created dynamic D3.js chart components integrated with React applications."
+      ]
+    },
+    {
+      "year": "2014 - 2015",
+      "company": "Webcreek",
+      "position": "Senior Front-end Developer",
+      "location": "Texas, USA",
+      "tasks": [
+        "Developed and debugged Tractfile Contract Management Software using Angular 2.",
+        "Created websites for oil companies using Angular, HTML5, and CSS3.",
+        "Developed financial modules for ERP systems using Angular 2.",
+        "Integrated automated test scripts using Selenium.",
+        "Developed React-based ERP modules and web applications."
+      ]
+    },
+    {
+      "year": "2011 - 2014",
+      "company": "Icogroup",
+      "position": "Web Developer",
+      "location": "Florida, USA",
+      "tasks": [
+        "Developed Univision TV Show website using AngularJS.",
+        "Developed Android apps and REST APIs using PHP/Laravel.",
+        "Built systems integrating scanners for user ID promotions and discounts."
+      ]
+    },
+    {
+      "year": "2009 - 2011",
+      "company": "Chacao Town Hall",
+      "position": "Intern",
+      "location": "Caracas, Venezuela",
+      "tasks": [
+        "Developed and maintained websites using HTML5, CSS3, JavaScript, and jQuery.",
+        "Built multiple websites for government and private institutions using WordPress.",
+        "Created custom WordPress plugins to enhance website functionality.",
+        "Developed an admin system for managing client nominee payments."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "year": "2025",
+      "course": "DevOps IBM course",
+      "status": "In progress"
+    },
+    {
+      "year": "2022",
+      "course": "Foundations of Project Management",
+      "institution": "Google"
+    },
+    {
+      "year": "2019",
+      "course": "Ruby on Rails Application Development",
+      "institution": "GoRails"
+    },
+    {
+      "year": "2017",
+      "course": "The Complete React Learning Course",
+      "institution": "Udemy"
+    },
+    {
+      "year": "2016",
+      "course": "Technical Certification on Web Development Technologies",
+      "institution": "Uneweb"
+    },
+    {
+      "year": "2015",
+      "course": "Technical Certification on Android Development",
+      "institution": "Uneweb"
+    },
+    {
+      "year": "2015",
+      "course": "Computer Science Degree",
+      "institution": "Universidad Central de Venezuela",
+      "location": "Caracas, Venezuela"
+    }
+  ],
+  "achievements_expertise": [
+    "Extensive experience with modern web frameworks such as SolidJS, React, and Angular.",
+    "Proficient in WebGL programming for 3D visualization and user interaction.",
+    "Strong knowledge of browser technologies: event loops, WebWorkers, WebSockets, and CSPs.",
+    "Skilled in delivering high-quality documentation for regulated environments.",
+    "Proven ability to mentor and lead teams in technical growth and project success.",
+    "Experience with regulated domains, ensuring compliance with standards like GDPR and MDR."
+  ]
+}
